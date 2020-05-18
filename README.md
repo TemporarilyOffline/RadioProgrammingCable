@@ -17,11 +17,11 @@ I was able to get this to work with Chirp-Daily-20171204 on OSX.
 
 ## Kenwood TM-281 (and others)
 
-Red - Pin 5 - RXD
-Yel - Pin 2 - TXD
-Blk - Pin 6 - GND
+* Red - Pin 5 - RXD
+* Yel - Pin 2 - TXD
+* Blk - Pin 6 - GND
 
-Picture:
+<img height="150" alt="Kenwood Cable" src="https://github.com/TemporarilyOffline/RadioProgrammingCable/blob/master/Kenwood Cable.jpg">   
 
 ## Baofeng UV-5R+ (and others)
 
@@ -29,16 +29,15 @@ This radio uses 3.5MM + 2.5MM Stereo Jacks.  These jacks have metal probes that 
 
 These ohm out as follows - Its the same on both cables:
 
-Tip - Red
-Ring - White
-Sleeve - Bare
+* Tip - Red
+* Ring - White
+* Sleeve - Bare
 
 On the 2.5MM plug, wire the white/ring to receive and the bare/sleeve wire to ground.
 
 On the 3.5MM plug, wire the bare/sleeve to transmit.
 
-Picture: 
-
+<img height="150" alt="Baofeng Cable" src="https://github.com/TemporarilyOffline/RadioProgrammingCable/blob/master/Baofeng Cable.jpg">   
 
 
 
