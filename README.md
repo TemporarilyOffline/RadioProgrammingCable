@@ -13,6 +13,10 @@ You probably have most of these parts on hand already:
 * Jumper Leads: https://www.amazon.com/gp/product/B07GD2BWPY
 * Shrink Tubing: https://www.amazon.com/gp/product/B072PCQ2LW
 
+## Chirp Software
+
+Get it here:  https://chirp.danplanet.com
+
 I was able to get this to work with Chirp-Daily-20171204 on OSX.
 
 ## Kenwood TM-281 (and others)
