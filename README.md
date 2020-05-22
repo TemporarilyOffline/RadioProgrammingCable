@@ -1,3 +1,7 @@
+## Video Overview
+
+https://youtu.be/kiiE1W67dvw
+
 ## Chirp Programming Cable
 
 You'll need a few parts.  Your radio may be progammed in a variety of ways.  I'm going 
