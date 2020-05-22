@@ -1,6 +1,8 @@
 ## Video Overview
 
-https://youtu.be/kiiE1W67dvw
+[![Video Overview](https://github.com/TemporarilyOffline/RadioProgrammingCable/blob/master/Thumbnail.png)](https://youtu.be/kiiE1W67dvw)
+
+
 
 ## Chirp Programming Cable
 
